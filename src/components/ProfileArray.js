@@ -18,7 +18,6 @@ const parseProfile = (mdContent) => {
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
-
     if (line.startsWith("## ")) {
       const section = line.substr(3).trim();
 
@@ -30,6 +29,8 @@ const parseProfile = (mdContent) => {
           break;
         case "About":
           profile.about = lines[++i].trim();
+          profile.about += lines[++i].trim();
+          profile.about += lines[++i].trim();
           break;
         case "Contact":
           profile.contact = lines[++i].trim();

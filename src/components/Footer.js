@@ -4,6 +4,7 @@ import {
   Stack,
   Text,
   useColorModeValue,
+  Link,
 } from "@chakra-ui/react";
 
 export default function Footer() {
@@ -18,7 +19,8 @@ export default function Footer() {
         py={4}
         align="center"
       >
-        <Text>© 2023 Eldora Boo. All rights reserved</Text>
+        <Text>2023 Haruka Kobayashi.</Text>
+        <Text>This website is built using a template. <Link to="https://github.com/eldoraboo/portable-portfolio" color="blue.500">Click here </Link>for more information.</Text>
       </Container>
     </Box>
   );

@@ -66,11 +66,11 @@ export default function Nav({ color }) {
 
   const TbLetterComponents = [];
 
-  for (let i = 0; i < profile.logo.length; i++) {
-    const letter = profile.logo[i];
-    const component = TbIcons[`TbLetter${letter}`];
-    TbLetterComponents.push(component);
-  }
+  // for (let i = 0; i < profile.logo.length; i++) {
+  //   const letter = profile.logo[i];
+  //   const component = TbIcons[`TbLetter${letter}`];
+  //   TbLetterComponents.push(component);
+  // }
 
   return (
     <>

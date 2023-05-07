@@ -1,29 +1,29 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
+## Internship
+- *Google STEP Intern* | Aug'21 - Oct'21
 - ![logo512](../assets/logo512.png)
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - SQL [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - I worked for a software enginner.
+  - I created a dashboard using SQL.
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
+## Part-time job
+- *palan* | Feb'22 - Dec'22
 - ![logo512](../assets/logo512.png)
 - Tags: Category 2
 - Badges:
-  - Badge [blue]
+  - Frontend [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - I worked for a frontend engineer at palan, Inc.
+  - Using React, I enhanced the "Palanar" service.
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
+## Part-time job
+- *Mind Render* | May'22 - Dec'22
 - ![logo512](../assets/logo512.png)
 - Tags: Category 3
 - Badges:
-  - Badge [blue]
+  - c# [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - I worked at my research laboratory.
+  - Using Unity, I developed Mind Render Soft, a tool for learning about evolutionary computation.
