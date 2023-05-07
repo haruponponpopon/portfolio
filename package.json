@@ -33,7 +33,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "rm": "rm -rf docs",
-    "mv": "mv build docs"
+    "mv": "mv build docs",
+    "predeploy": "{yarn or npm} run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
