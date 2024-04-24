@@ -23,4 +23,4 @@ As my graduation research, I developed an image generation support system for di
 - Badges:
   - ML [blue]
 - Buttons:
-  - Link [https://drive.google.com/file/d/1xXz53DC7uuqf2G14hykUkijQFPf3dTpY/view?usp=sharing]
+  - Link [https://ieeexplore.ieee.org/abstract/document/10394041]
